@@ -61,9 +61,26 @@ This dataset shows the monthly data on the number of active agents, registered m
 7. Central Bank Rate shows the interest rate at which a central bank lends money to domestic banks, often in the form of very short-term loans.
 8. Dividend Yield shows the measures the annual value of dividends received relative to the market value per share.
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 Using the merged dataset we checked the relationship between the columns and visualized the correlation.
 ![correlation](https://github.com/Yaqi-graphics/Phase-5-project---safaricom/assets/137016696/26fcaf40-27e9-4623-b1b2-8be6d06895d8)
+
+Findings
+The 'Close' price demonstrates a strong positive correlation with 'Dividend Yield' (0.81) and a negative correlation with 'GDP Growth Rate' (-0.52). 'Annual Average Inflation' and 'Central Bank Rate' exhibit a significant positive correlation (0.83), while 'RSI' and 'MACD' show a moderate positive correlation (0.58). These insights provide valuable information for understanding potential interdependencies and trends within the dataset.
+
+## Modeling and Regression Results.
+### 1. Vector Autoregression
+We used the close dataset to work on this model. We started by spliting the data into training and testing sets, then we trained our VAR Model in order to make predictions. After making predictions on the test set. We extracted the predicted values and visualized the same. This model gave us a rmse of 2.5715913248554116.
+![vector autoregression](https://github.com/Yaqi-graphics/Phase-5-project---safaricom/assets/137016696/ab770e07-4d91-4456-b612-e68af0595ef7)
+
+### 2. Recurrent Neural Network (RNN)
+We started by converting the dataset into sequences. We started by spliting the data into training and testing sets, then we trained our RNN Model in order to make predictions. After making predictions on the test set. We extracted the predicted values and visualized the same. This model gave us a rmse of 0.04060818256430719.
+![rnn](https://github.com/Yaqi-graphics/Phase-5-project---safaricom/assets/137016696/5c97007f-9a14-4a0b-9a4b-90ff9edda5b5)
+
+
+
+
+
 
 
 
