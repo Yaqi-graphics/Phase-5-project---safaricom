@@ -1,6 +1,18 @@
 # Phase 5 Project: Unlocking Safaricom’s Future: Predicting the Stock Price of Kenya's telecom giant
 
-Members: Jackline Njuguna, Vitelis Siocha Angel Atungire Elsie Ochieng Flavine Atieno Evans Machua
+### Group 8 Members.
+Jackline Njuguna
+Vitelis Siocha
+Angel Atungire
+Elsie Ochieng
+Flavine Atieno
+Evans Machua
+
+## About Safaricom
+Safaricom is a telecommunications service provider incorporated in Kenya as a limited liability company. Safaricom was formed in 1997 as a fully owned subsidiary of Telkom Kenya. In May 2000, Vodafone Group PLC of the United Kingdom acquired a 40% stake and management responsibility for the company. In 2008, the government offered 25% of its shares to the public through the Nairobi Securities Exchange.
+
+## Safaricom Stocks.
+The current share price of Safaricom Plc (SCOM) is KES 13.90. SCOM closed its last trading day (Monday, January 15, 2024) at 13.90 KES per share on the Nairobi Securities Exchange (NSE). Safaricom is the #1 most traded stock on the Nairobi Securities Exchange over the past three months (Oct 11, 2023 - Jan 15, 2024) therefore our project will help people discover the future value of the stock and gain significant profits.
 
 ## Project Overview
 
@@ -18,3 +30,5 @@ Develop a robust time-series forecasting model for Safaricom's stock prices.
 To Identify opportune times to buy and sell Safaricom stocks to maximize returns by analyzing historical data, market trends and economic indicators to pinpoint optimal entry and exit points for various project stakeholders.
 
 To conduct sensitivity analysis to assess how inflation rate variations, interest rate, and GDP affect the model's predictions. This can be achieved by simulating different economic scenarios above and understanding how these changes affect stock price forecasts.
+
+Im
