@@ -33,4 +33,38 @@ To Identify opportune times to buy and sell Safaricom stocks to maximize returns
 
 To conduct sensitivity analysis to assess how inflation rate variations, interest rate, and GDP affect the model's predictions. This can be achieved by simulating different economic scenarios above and understanding how these changes affect stock price forecasts.
 
-Im
+## Data Understanding
+This analysis/modelling uses several datasets, which can be found in the data folder in this assignment's GitHub repository. Below are our understanding of the datasets.
+
+### I. Historical Prices
+This dataset provides daily historical stock prices and volumes for each stock for a given period of time. The historical price trends are used to indicate the future direction of a stock.
+
+### II. Kenya gdp growth rate
+This data set expresses the difference between GDP values from one period to the next as a proportion of the GDP from the earlier period in percentage form and showing the dates.
+
+### III. Central bank interest rates
+This dataset shows the interest rate at which Kenya's central bank charges other domestic banks to borrow funds. This rates changes based on the economic changes of our country. 
+
+### IV. Dividend Yield
+This data set shows the financial ratio that tells us the percentage of Safaricom shares price that it pays out in dividends each year. 
+
+### V. Mobile Payments
+This dataset shows the monthly data on the number of active agents, registered mobile money accounts, and agent cash in and out transactions. The most common one at Safaricom is M-Pesa.
+
+## The Merged data set columns
+1. Open price is the first price at which stock trades during market hours
+2. The high and low prices reflect the highest and lowest prices the stock reaches
+3. The Close price is the closing price during the previous market day.
+4. Volume is the number of shares traded in a given period.
+5. GDP Growth Rate shows the annual average rate of change of the gross domestic product (GDP) at market prices based on constant local currency, for a given national economy, during a specified period of time.
+6. Annual average inflation is the percentage change in the annual average consumer price index (CPI) of the corresponding months.
+7. Central Bank Rate shows the interest rate at which a central bank lends money to domestic banks, often in the form of very short-term loans.
+8. Dividend Yield shows the measures the annual value of dividends received relative to the market value per share.
+
+### Exploratory Data Analysis
+Using the merged dataset we checked the relationship between the columns and visualized the correlation.
+![correlation](https://github.com/Yaqi-graphics/Phase-5-project---safaricom/assets/137016696/26fcaf40-27e9-4623-b1b2-8be6d06895d8)
+
+
+
+
