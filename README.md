@@ -1,6 +1,6 @@
 # Phase 5 Project: Unlocking Safaricom’s Future: Predicting the Stock Price of Kenya's telecom giant
 
-![image](https://github.com/Yaqi-graphics/Phase-5-project---safaricom/assets/137016696/cda83f26-691c-4d73-bdf2-a1b9ed3039b4)
+<img width="424" alt="Capture" src="https://github.com/Yaqi-graphics/Phase-5-project---safaricom/assets/137016696/148fe71e-b13d-415d-8aa5-7777b33881d5">
 
 ### Group 8 Members.
 Jackline Njuguna
