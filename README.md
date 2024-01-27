@@ -56,6 +56,9 @@ This dataset shows the interest rate at which Kenya's central bank charges other
 ### IV. Dividend Yield
 This data set shows the financial ratio that tells us the percentage of Safaricom shares price that it pays out in dividends each year. 
 
+### V. inflation rate
+This dataset measures the average change in prices of safaricom stock paid by customers over a period of time. It shows the percentage at which stock prices increase.
+
 ## The Merged data set columns
 1. Open price is the first price at which stock trades during market hours
 2. The high and low prices reflect the highest and lowest prices the stock reaches
